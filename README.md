@@ -64,7 +64,7 @@
 ### docker system commands
 1)  - `docker system df`                                               *# check docker files volume.*
 2)  - `docker system info`                                             *# create docker system information*
-3)   -`docker system prune`                                            *# delete all dangling images,container and networks.*
+3)  - `docker system prune`                                            *# delete all dangling images,container and networks.*
 
 
 ### Docker Compose
